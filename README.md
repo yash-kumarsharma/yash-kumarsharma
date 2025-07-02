@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Yash!</h1>
+<h1 align="center">👋 Hi! I'm Yash Sharma</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Backend+%26+Web+Developer;CS+Undergrad+%7C+Tech+Enthusiast;Building+Real-World+Solutions;Open+to+Internships+%26+Collaborations" alt="Typing Animation" />
