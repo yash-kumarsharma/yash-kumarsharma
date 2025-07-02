@@ -48,7 +48,7 @@
 
 🔐 **Admin Product Dashboard**  
 Secure admin panel with login, session-based auth, and CRUD functionality.  
-**Stack:** Node.js, Express, MongoDB, EJS  
+**Stack:** Node.js, Express, MongoDB, HBS  
 📂 [View Project](https://github.com/yash-kumarsharma/admin-product-dashboard)
 
 🛍️ **Product Management API**  
