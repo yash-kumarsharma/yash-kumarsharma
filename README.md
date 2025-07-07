@@ -63,7 +63,7 @@ Real-time alerts, location tracking, and contact systems for emergencies.
 
 🧰 **Linux System Maintenance Toolkit**  
 Handy CLI scripts for system cleanup, diagnostics, and updates.  
-📂 [View Project](https://github.com/yash-kumarsharma/linux-toolkit)
+📂 [View Project](https://github.com/yash-kumarsharma/Linux-System-Maintenance-ToolKit)
 
 ---
 
