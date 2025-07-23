@@ -86,5 +86,5 @@ Handy CLI scripts for system cleanup, diagnostics, and updates.
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
   </a>
   <br />
-  📬 yashkumarsharma1820@example.com
+  📬 yashkumarsharma1820@gmail.com
 </p>
