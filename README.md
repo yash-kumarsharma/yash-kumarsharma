@@ -59,7 +59,7 @@ RESTful API with modular structure, validations, and MongoDB integration.
 👩‍💻 **Elera – Women’s Safety Platform** *(Hackathon Winner)*  
 Real-time alerts, location tracking, and contact systems for emergencies.  
 **Stack:** Firebase, JS, Web  
-📂 [View Project](https://github.com/yash-kumarsharma/elera)
+📂 [View Project](https://github.com/yash-kumarsharma/elira)
 
 🧰 **Linux System Maintenance Toolkit**  
 Handy CLI scripts for system cleanup, diagnostics, and updates.  
