@@ -56,7 +56,7 @@ RESTful API with modular structure, validations, and MongoDB integration.
 **Stack:** Node.js, Express  
 📂 [View Project](https://github.com/yash-kumarsharma/product-management-api)
 
-👩‍💻 **Elera – Women’s Safety Platform** *(Hackathon Winner)*  
+👩‍💻 **Elira – Women’s Safety Platform** *(Hackathon Winner)*  
 Real-time alerts, location tracking, and contact systems for emergencies.  
 **Stack:** Firebase, JS, Web  
 📂 [View Project](https://github.com/yash-kumarsharma/elira)
