@@ -79,7 +79,7 @@ Handy CLI scripts for system cleanup, diagnostics, and updates.
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yash-sharma-877460290">
+  <a href="https://linkedin.com/in/yash-kumarsharma">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/yash_kumarsharma">
