@@ -3,6 +3,17 @@
   Hi, I'm Yash Sharma
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0072FF&center=true&vCenter=true&width=600&lines=Backend+%26+Web+Developer;CS+Undergrad+%7C+Tech+Enthusiast;Building+Scalable+Solutions;Java+%26+Spring+Boot+Specialist" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <strong>🎓 Computer Science Student • 💻 Software Engineer</strong>
+</p>
+<!-- <p align="center">
+  🚀 Passionate about building impactful applications and learning modern technologies.
+</p> -->
+
 <div align="center">
   <a href="https://linkedin.com/in/yash-kumarsharma">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -11,19 +22,6 @@
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
 </div>
-
-<br />
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0072FF&center=true&vCenter=true&width=600&lines=Backend+%26+Web+Developer;CS+Undergrad+%7C+Tech+Enthusiast;Building+Scalable+Solutions;Java+%26+Spring+Boot+Specialist" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <strong>🎓 Computer Science Student • 💻 Software Engineer</strong>
-</p>
-<p align="center">
-  🚀 Passionate about building impactful applications and learning modern technologies.
-</p>
 
 ---
 
