@@ -128,3 +128,7 @@
   <br />
   <p><i>"Quality is not an act, it is a habit."</i></p>
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=100&section=footer" width="100%" />
+</div>
