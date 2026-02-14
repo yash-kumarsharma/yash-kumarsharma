@@ -112,18 +112,6 @@
 
 ---
 
-<h3 align="center">💎 Top Projects</h3>
-<div align="center">
-  <a href="https://github.com/yash-kumarsharma/Storefront.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-kumarsharma&repo=Storefront&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0072FF&icon_color=0072FF" />
-  </a>
-  <a href="https://github.com/yash-kumarsharma/Vellum.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-kumarsharma&repo=Vellum&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0072FF&icon_color=0072FF" />
-  </a>
-</div>
-
----
-
 <h3 align="center">🐍 Contributions</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/yash-kumarsharma/yash-kumarsharma/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
