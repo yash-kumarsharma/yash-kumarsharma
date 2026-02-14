@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/yash-kumarsharma">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/yash-kumarsharma">
+  <a href="https://leetcode.com/u/yash_kumarsharma/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
 </div>
