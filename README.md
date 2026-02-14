@@ -117,6 +117,11 @@
   <img src="https://raw.githubusercontent.com/yash-kumarsharma/yash-kumarsharma/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
+<h3 align="center">🧱 3D Contribution City</h3>
+<div align="center">
+  <img src="https://github.com/yash-kumarsharma/yash-kumarsharma/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-kumarsharma&theme=tokyonight&hide_border=true&background=0D1117&ring=0072FF&fire=0072FF&currStreakLabel=0072FF" alt="streak graph" />
 </div>
