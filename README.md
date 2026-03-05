@@ -63,7 +63,7 @@
 ---
 
 <div align="center" style="margin: 25px 0;">
-  <img src="https://komarev.com/ghpvc/?username=yash-kumarsharma&label=PROFILE+VIEWS&color=00CFFF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yash-kumarsharma&label=Profile%20Views&color=0072FF&style=flat" alt="visitor badge" />
   <br />
   <p align="center"><i>"Quality is not an act, it is a habit."</i></p>
 </div>
